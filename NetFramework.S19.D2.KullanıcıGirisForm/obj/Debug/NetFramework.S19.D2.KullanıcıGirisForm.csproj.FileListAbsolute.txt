@@ -1,0 +1,11 @@
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S19.D2.KullanıcıGirisForm\bin\Debug\NetFramework.S19.D2.KullanıcıGirisForm.exe.config
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S19.D2.KullanıcıGirisForm\bin\Debug\NetFramework.S19.D2.KullanıcıGirisForm.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S19.D2.KullanıcıGirisForm\bin\Debug\NetFramework.S19.D2.KullanıcıGirisForm.pdb
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S19.D2.KullanıcıGirisForm\obj\Debug\NetFramework.S19.D2.KullanıcıGirisForm.csproj.AssemblyReference.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S19.D2.KullanıcıGirisForm\obj\Debug\NetFramework.S19.D2.KullanıcıGirisForm.Form1.resources
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S19.D2.KullanıcıGirisForm\obj\Debug\NetFramework.S19.D2.KullanıcıGirisForm.Properties.Resources.resources
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S19.D2.KullanıcıGirisForm\obj\Debug\NetFramework.S19.D2.KullanıcıGirisForm.csproj.GenerateResource.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S19.D2.KullanıcıGirisForm\obj\Debug\NetFramework.S19.D2.KullanıcıGirisForm.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S19.D2.KullanıcıGirisForm\obj\Debug\NetFramework.S19.D2.KullanıcıGirisForm.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S19.D2.KullanıcıGirisForm\obj\Debug\NetFramework.S19.D2.KullanıcıGirisForm.pdb
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S19.D2.KullanıcıGirisForm\obj\Debug\NetFramework.S19.D2.KullanıcıGirisForm.anaForm.resources

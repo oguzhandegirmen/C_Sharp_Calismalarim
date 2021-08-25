@@ -1,0 +1,6 @@
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFreamework.S4.D2.ForeachGenelKullanimi\bin\Debug\NetFreamework.S4.D2.ForeachGenelKullanimi.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFreamework.S4.D2.ForeachGenelKullanimi\bin\Debug\NetFreamework.S4.D2.ForeachGenelKullanimi.pdb
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFreamework.S4.D2.ForeachGenelKullanimi\obj\Debug\NetFreamework.S4.D2.ForeachGenelKullanimi.csproj.AssemblyReference.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFreamework.S4.D2.ForeachGenelKullanimi\obj\Debug\NetFreamework.S4.D2.ForeachGenelKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFreamework.S4.D2.ForeachGenelKullanimi\obj\Debug\NetFreamework.S4.D2.ForeachGenelKullanimi.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFreamework.S4.D2.ForeachGenelKullanimi\obj\Debug\NetFreamework.S4.D2.ForeachGenelKullanimi.pdb

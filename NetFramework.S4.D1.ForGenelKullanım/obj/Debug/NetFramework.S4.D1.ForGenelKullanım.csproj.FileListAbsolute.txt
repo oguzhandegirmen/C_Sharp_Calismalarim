@@ -1,0 +1,6 @@
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S4.D1.ForGenelKullanım\bin\Debug\NetFramework.S4.D1.ForGenelKullanım.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S4.D1.ForGenelKullanım\bin\Debug\NetFramework.S4.D1.ForGenelKullanım.pdb
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S4.D1.ForGenelKullanım\obj\Debug\NetFramework.S4.D1.ForGenelKullanım.csproj.AssemblyReference.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S4.D1.ForGenelKullanım\obj\Debug\NetFramework.S4.D1.ForGenelKullanım.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S4.D1.ForGenelKullanım\obj\Debug\NetFramework.S4.D1.ForGenelKullanım.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S4.D1.ForGenelKullanım\obj\Debug\NetFramework.S4.D1.ForGenelKullanım.pdb

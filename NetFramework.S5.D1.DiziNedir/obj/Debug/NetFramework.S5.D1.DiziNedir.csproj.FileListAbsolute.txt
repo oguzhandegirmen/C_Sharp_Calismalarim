@@ -1,0 +1,6 @@
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S5.D1.DiziNedir\bin\Debug\NetFramework.S5.D1.DiziNedir.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S5.D1.DiziNedir\bin\Debug\NetFramework.S5.D1.DiziNedir.pdb
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S5.D1.DiziNedir\obj\Debug\NetFramework.S5.D1.DiziNedir.csproj.AssemblyReference.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S5.D1.DiziNedir\obj\Debug\NetFramework.S5.D1.DiziNedir.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S5.D1.DiziNedir\obj\Debug\NetFramework.S5.D1.DiziNedir.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S5.D1.DiziNedir\obj\Debug\NetFramework.S5.D1.DiziNedir.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S8.D1.OOPNedir\bin\Debug\NetFramework.S8.D1.OOPNedir.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S8.D1.OOPNedir\bin\Debug\NetFramework.S8.D1.OOPNedir.pdb
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S8.D1.OOPNedir\obj\Debug\NetFramework.S8.D1.OOPNedir.csproj.AssemblyReference.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S8.D1.OOPNedir\obj\Debug\NetFramework.S8.D1.OOPNedir.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S8.D1.OOPNedir\obj\Debug\NetFramework.S8.D1.OOPNedir.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S8.D1.OOPNedir\obj\Debug\NetFramework.S8.D1.OOPNedir.pdb

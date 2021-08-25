@@ -1,0 +1,6 @@
+C:\Users\Gokhan\Desktop\C#\Inceleme\Inceleme\obj\Debug\Inceleme.csproj.AssemblyReference.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\Inceleme\obj\Debug\Inceleme.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\Inceleme\bin\Debug\Inceleme.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\Inceleme\bin\Debug\Inceleme.pdb
+C:\Users\Gokhan\Desktop\C#\Inceleme\Inceleme\obj\Debug\Inceleme.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\Inceleme\obj\Debug\Inceleme.pdb

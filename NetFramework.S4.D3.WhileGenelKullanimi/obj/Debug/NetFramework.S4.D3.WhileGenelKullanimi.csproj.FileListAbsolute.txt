@@ -1,0 +1,6 @@
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S4.D3.WhileGenelKullanimi\bin\Debug\NetFramework.S4.D3.WhileGenelKullanimi.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S4.D3.WhileGenelKullanimi\bin\Debug\NetFramework.S4.D3.WhileGenelKullanimi.pdb
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S4.D3.WhileGenelKullanimi\obj\Debug\NetFramework.S4.D3.WhileGenelKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S4.D3.WhileGenelKullanimi\obj\Debug\NetFramework.S4.D3.WhileGenelKullanimi.exe
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S4.D3.WhileGenelKullanimi\obj\Debug\NetFramework.S4.D3.WhileGenelKullanimi.pdb
+C:\Users\Gokhan\Desktop\C#\Inceleme\NetFramework.S4.D3.WhileGenelKullanimi\obj\Debug\NetFramework.S4.D3.WhileGenelKullanimi.csproj.AssemblyReference.cache
